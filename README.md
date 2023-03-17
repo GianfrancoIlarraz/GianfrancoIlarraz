@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Currently interested in learning Python to expand my backend knowledge.
+- 🤔 &nbsp; Currently interested in learning Python.
 - 🎓 &nbsp; Graduated student at Coderhouse.
 - 💼 &nbsp; Currently searching for a job.
 - 🌱 &nbsp; Learning more about software development.
