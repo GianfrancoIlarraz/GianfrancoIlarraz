@@ -29,6 +29,6 @@
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/gianfranco-ilarraz-856525211/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aitor%20Ezcurra-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:gianfrancoilarraz12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aitor_ezcu@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/gianfranco-ilarraz-856525211/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gianfranco%20Ilarraz-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:gianfrancoilarraz12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gianfrancoilarraz12@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
